@@ -10,8 +10,8 @@ I wrote this program to test my python and git instillation on a new device.
 
 # Development Environment
 
-IDE: Visual Studio Code
-Language: Python 3.10.4 64bit
+* IDE: Visual Studio Code
+* Language: Python 3.10.4 64bit
 
 
 # Useful Websites
